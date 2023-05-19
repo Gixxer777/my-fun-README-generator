@@ -16,7 +16,7 @@
   You must install Inquirer 8.2.4.
  
   ## Usage
-  First you must run "npm init" in your terminal. Next you must run "npm install inquirer@8.2.4" in your terminal. After the download is complete, you must run "node index.js" in your terminal and then answer the questions.
+  First, you must run "npm install inquirer@8.2.4" in your terminal. After the download is complete, you must run "node index.js" in your terminal and then answer the questions.
  
   ## Contributing
   None
